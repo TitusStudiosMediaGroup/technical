@@ -1,0 +1,8 @@
+plugins:
+  - directory-indexer
+url: "https://aerofur.nz/technical/"
+title: www.aerofur.nz
+description: dog on the internet.
+defaults:
+    values:
+      sitemap: false
